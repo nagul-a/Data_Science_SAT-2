@@ -1,0 +1,3 @@
+day_category,shows,total_tickets,total_capacity,total_revenue,avg_occupancy_pct,avg_revenue_per_show,avg_tickets_per_show,overall_occupancy_pct
+Weekday (Mon-Fri),1559,141399,312910,44932770.0,45.19546504169339,28821.53,90.7,45.19
+Weekend (Sat-Sun),626,78449,124100,25085910.0,63.15068690095847,40073.34,125.32,63.21

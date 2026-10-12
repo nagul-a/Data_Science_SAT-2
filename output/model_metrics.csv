@@ -1,0 +1,3 @@
+Model,MAE (Tickets),RMSE (Tickets),R2_Score,Interpretation
+Baseline (Mean Predictor),37.34,45.29,-0.0941,Naive baseline predicting mean ticket volume across all shows.
+Random Forest Regressor,16.53,22.99,0.718,"Multi-feature ensemble capturing non-linear interactions across timing, genre, and pricing."

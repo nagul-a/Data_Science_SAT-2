@@ -1,0 +1,6 @@
+cinema,city,shows,screen_capacity,total_tickets,total_capacity,total_revenue,avg_occupancy_pct,avg_revenue_per_show,overall_occupancy_pct
+SilverScreen Downtown,Mumbai,440,250,55464,110000,18091370.0,50.42181818181818,41116.75,50.42
+SilverScreen Central,Hyderabad,447,220,49537,98340,15745950.0,50.37315436241611,35225.84,50.37
+SilverScreen Galleria,Delhi,428,200,42555,85600,13100810.0,49.71378504672897,30609.37,49.71
+SilverScreen Nexus,Bengaluru,419,180,37641,75420,12260640.0,49.908281622911694,29261.67,49.91
+SilverScreen Forum,Chennai,451,150,34651,67650,10819910.0,51.22082039911308,23990.93,51.22

@@ -1,0 +1,7 @@
+pricing_id,seat_class,ticket_price,offer
+P01,Standard,250.0,None
+P02,Premium,380.0,None
+P03,Standard,200.0,Student Discount 20%
+P04,Premium,320.0,Family Pack 15%
+P05,Standard,180.0,Early Bird 28%
+P06,VIP Recliner,550.0,None

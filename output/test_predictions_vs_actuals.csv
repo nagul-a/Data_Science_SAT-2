@@ -1,0 +1,438 @@
+booking_id,show_date,show_time,cinema,city,movie,genre,screen_capacity,ticket_price,offer,tickets,predicted_tickets,prediction_error,abs_error,revenue,predicted_revenue
+BK01327,2026-09-17,20:15,SilverScreen Galleria,Delhi,Shadow Strike,Action,200,380.0,None,117,116,-1,1,44460.0,44080.0
+BK01397,2026-09-17,20:15,SilverScreen Nexus,Bengaluru,Dragon Kingdom,Animation,180,380.0,None,99,103,4,4,37620.0,39140.0
+BK01508,2026-09-17,20:15,SilverScreen Downtown,Mumbai,Love in Paris,Romance,250,200.0,Student Discount 20%,147,129,-18,18,29400.0,25800.0
+BK01811,2026-09-17,20:15,SilverScreen Nexus,Bengaluru,Dragon Kingdom,Animation,180,380.0,None,112,103,-9,9,42560.0,39140.0
+BK01833,2026-09-17,20:15,SilverScreen Downtown,Mumbai,Shadow Strike,Action,250,380.0,None,184,141,-43,43,69920.0,53580.0
+BK00019,2026-09-17,22:45,SilverScreen Nexus,Bengaluru,Shadow Strike,Action,180,180.0,Early Bird 28%,83,85,2,2,14940.0,15300.0
+BK00146,2026-09-17,22:45,SilverScreen Galleria,Delhi,Cyber Runner,Sci-Fi,200,550.0,None,125,85,-40,40,68750.0,46750.0
+BK00546,2026-09-17,22:45,SilverScreen Nexus,Bengaluru,Dragon Kingdom,Animation,180,180.0,Early Bird 28%,85,78,-7,7,15300.0,14040.0
+BK00557,2026-09-17,22:45,SilverScreen Forum,Chennai,Starlight Odyssey,Sci-Fi,150,380.0,None,86,73,-13,13,32680.0,27740.0
+BK00662,2026-09-17,22:45,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,380.0,None,74,70,-4,4,28120.0,26600.0
+BK00855,2026-09-17,22:45,SilverScreen Downtown,Mumbai,Mumbai Express,Action,250,250.0,None,187,125,-62,62,46750.0,31250.0
+BK01037,2026-09-17,22:45,SilverScreen Galleria,Delhi,Starlight Odyssey,Sci-Fi,200,180.0,Early Bird 28%,102,90,-12,12,18360.0,16200.0
+BK01164,2026-09-17,22:45,SilverScreen Central,Hyderabad,Love in Paris,Romance,220,200.0,Student Discount 20%,62,100,38,38,12400.0,20000.0
+BK01220,2026-09-17,22:45,SilverScreen Galleria,Delhi,Cyber Runner,Sci-Fi,200,320.0,Family Pack 15%,146,94,-52,52,46720.0,30080.0
+BK01263,2026-09-17,22:45,SilverScreen Forum,Chennai,Love in Paris,Romance,150,380.0,None,69,69,0,0,26220.0,26220.0
+BK01530,2026-09-17,22:45,SilverScreen Forum,Chennai,Whispering Pines,Horror,150,200.0,Student Discount 20%,52,59,7,7,10400.0,11800.0
+BK02083,2026-09-17,22:45,SilverScreen Galleria,Delhi,Mumbai Express,Action,200,550.0,None,104,93,-11,11,57200.0,51150.0
+BK02151,2026-09-17,22:45,SilverScreen Forum,Chennai,Love in Paris,Romance,150,180.0,Early Bird 28%,60,64,4,4,10800.0,11520.0
+BK00122,2026-09-18,10:30,SilverScreen Downtown,Mumbai,Starlight Odyssey,Sci-Fi,250,380.0,None,59,62,3,3,22420.0,23560.0
+BK00559,2026-09-18,10:30,SilverScreen Galleria,Delhi,Laugh Riot,Comedy,200,180.0,Early Bird 28%,58,48,-10,10,10440.0,8640.0
+BK00730,2026-09-18,10:30,SilverScreen Central,Hyderabad,Crimson Verdict,Drama,220,250.0,None,30,45,15,15,7500.0,11250.0
+BK01133,2026-09-18,10:30,SilverScreen Galleria,Delhi,Whispering Pines,Horror,200,200.0,Student Discount 20%,70,40,-30,30,14000.0,8000.0
+BK01423,2026-09-18,10:30,SilverScreen Downtown,Mumbai,Starlight Odyssey,Sci-Fi,250,250.0,None,70,65,-5,5,17500.0,16250.0
+BK01511,2026-09-18,10:30,SilverScreen Nexus,Bengaluru,Starlight Odyssey,Sci-Fi,180,550.0,None,39,51,12,12,21450.0,28050.0
+BK01705,2026-09-18,10:30,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,550.0,None,46,44,-2,2,25300.0,24200.0
+BK01760,2026-09-18,10:30,SilverScreen Central,Hyderabad,Mumbai Express,Action,220,200.0,Student Discount 20%,94,72,-22,22,18800.0,14400.0
+BK01868,2026-09-18,10:30,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,250.0,None,56,34,-22,22,14000.0,8500.0
+BK00029,2026-09-18,13:45,SilverScreen Galleria,Delhi,Crazy Summer,Comedy,200,180.0,Early Bird 28%,55,60,5,5,9900.0,10800.0
+BK00395,2026-09-18,13:45,SilverScreen Nexus,Bengaluru,Crazy Summer,Comedy,180,380.0,None,75,58,-17,17,28500.0,22040.0
+BK00511,2026-09-18,13:45,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,550.0,None,72,59,-13,13,39600.0,32450.0
+BK00645,2026-09-18,13:45,SilverScreen Galleria,Delhi,Dragon Kingdom,Animation,200,380.0,None,70,67,-3,3,26600.0,25460.0
+BK00680,2026-09-18,13:45,SilverScreen Central,Hyderabad,Starlight Odyssey,Sci-Fi,220,180.0,Early Bird 28%,115,85,-30,30,20700.0,15300.0
+BK00767,2026-09-18,13:45,SilverScreen Nexus,Bengaluru,Dragon Kingdom,Animation,180,550.0,None,66,57,-9,9,36300.0,31350.0
+BK00776,2026-09-18,13:45,SilverScreen Forum,Chennai,Shadow Strike,Action,150,180.0,Early Bird 28%,37,63,26,26,6660.0,11340.0
+BK00846,2026-09-18,13:45,SilverScreen Downtown,Mumbai,Laugh Riot,Comedy,250,200.0,Student Discount 20%,98,80,-18,18,19600.0,16000.0
+BK01093,2026-09-18,13:45,SilverScreen Central,Hyderabad,Mumbai Express,Action,220,320.0,Family Pack 15%,109,97,-12,12,34880.0,31040.0
+BK01134,2026-09-18,13:45,SilverScreen Forum,Chennai,Shadow Strike,Action,150,250.0,None,61,62,1,1,15250.0,15500.0
+BK01225,2026-09-18,13:45,SilverScreen Central,Hyderabad,Starlight Odyssey,Sci-Fi,220,550.0,None,90,71,-19,19,49500.0,39050.0
+BK01355,2026-09-18,13:45,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,200.0,Student Discount 20%,72,94,22,22,14400.0,18800.0
+BK01408,2026-09-18,13:45,SilverScreen Galleria,Delhi,Crimson Verdict,Drama,200,180.0,Early Bird 28%,78,52,-26,26,14040.0,9360.0
+BK01772,2026-09-18,13:45,SilverScreen Downtown,Mumbai,Dragon Kingdom,Animation,250,320.0,Family Pack 15%,127,93,-34,34,40640.0,29760.0
+BK01849,2026-09-18,13:45,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,320.0,Family Pack 15%,84,66,-18,18,26880.0,21120.0
+BK02182,2026-09-18,13:45,SilverScreen Downtown,Mumbai,Dragon Kingdom,Animation,250,380.0,None,86,92,6,6,32680.0,34960.0
+BK00025,2026-09-18,17:00,SilverScreen Downtown,Mumbai,Dragon Kingdom,Animation,250,550.0,None,144,118,-26,26,79200.0,64900.0
+BK00171,2026-09-18,17:00,SilverScreen Central,Hyderabad,Starlight Odyssey,Sci-Fi,220,180.0,Early Bird 28%,139,121,-18,18,25020.0,21780.0
+BK00424,2026-09-18,17:00,SilverScreen Forum,Chennai,Shadow Strike,Action,150,200.0,Student Discount 20%,104,73,-31,31,20800.0,14600.0
+BK00520,2026-09-18,17:00,SilverScreen Nexus,Bengaluru,Crazy Summer,Comedy,180,250.0,None,107,83,-24,24,26750.0,20750.0
+BK01348,2026-09-18,17:00,SilverScreen Downtown,Mumbai,Whispering Pines,Horror,250,550.0,None,145,100,-45,45,79750.0,55000.0
+BK01400,2026-09-18,17:00,SilverScreen Galleria,Delhi,Cyber Runner,Sci-Fi,200,320.0,Family Pack 15%,119,99,-20,20,38080.0,31680.0
+BK01693,2026-09-18,17:00,SilverScreen Downtown,Mumbai,Starlight Odyssey,Sci-Fi,250,550.0,None,193,130,-63,63,106150.0,71500.0
+BK01882,2026-09-18,17:00,SilverScreen Nexus,Bengaluru,Love in Paris,Romance,180,180.0,Early Bird 28%,109,78,-31,31,19620.0,14040.0
+BK02096,2026-09-18,17:00,SilverScreen Galleria,Delhi,Starlight Odyssey,Sci-Fi,200,380.0,None,139,98,-41,41,52820.0,37240.0
+BK00390,2026-09-18,20:15,SilverScreen Galleria,Delhi,Crazy Summer,Comedy,200,200.0,Student Discount 20%,98,93,-5,5,19600.0,18600.0
+BK00509,2026-09-18,20:15,SilverScreen Galleria,Delhi,Mumbai Express,Action,200,250.0,None,147,109,-38,38,36750.0,27250.0
+BK00577,2026-09-18,20:15,SilverScreen Nexus,Bengaluru,Starlight Odyssey,Sci-Fi,180,180.0,Early Bird 28%,130,88,-42,42,23400.0,15840.0
+BK00647,2026-09-18,20:15,SilverScreen Downtown,Mumbai,Starlight Odyssey,Sci-Fi,250,550.0,None,122,135,13,13,67100.0,74250.0
+BK01574,2026-09-18,20:15,SilverScreen Central,Hyderabad,Love in Paris,Romance,220,180.0,Early Bird 28%,81,99,18,18,14580.0,17820.0
+BK01961,2026-09-18,20:15,SilverScreen Downtown,Mumbai,Crazy Summer,Comedy,250,380.0,None,132,115,-17,17,50160.0,43700.0
+BK01999,2026-09-18,20:15,SilverScreen Nexus,Bengaluru,Cyber Runner,Sci-Fi,180,380.0,None,114,100,-14,14,43320.0,38000.0
+BK00719,2026-09-18,22:45,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,380.0,None,68,68,0,0,25840.0,25840.0
+BK00740,2026-09-18,22:45,SilverScreen Forum,Chennai,Love in Paris,Romance,150,200.0,Student Discount 20%,70,57,-13,13,14000.0,11400.0
+BK00853,2026-09-18,22:45,SilverScreen Galleria,Delhi,Crazy Summer,Comedy,200,180.0,Early Bird 28%,75,61,-14,14,13500.0,10980.0
+BK00976,2026-09-18,22:45,SilverScreen Forum,Chennai,Starlight Odyssey,Sci-Fi,150,250.0,None,62,68,6,6,15500.0,17000.0
+BK00978,2026-09-18,22:45,SilverScreen Nexus,Bengaluru,Mumbai Express,Action,180,200.0,Student Discount 20%,70,77,7,7,14000.0,15400.0
+BK01802,2026-09-18,22:45,SilverScreen Galleria,Delhi,Whispering Pines,Horror,200,250.0,None,80,62,-18,18,20000.0,15500.0
+BK00634,2026-09-19,10:30,SilverScreen Nexus,Bengaluru,Laugh Riot,Comedy,180,180.0,Early Bird 28%,56,71,15,15,10080.0,12780.0
+BK01136,2026-09-19,10:30,SilverScreen Galleria,Delhi,Whispering Pines,Horror,200,180.0,Early Bird 28%,75,75,0,0,13500.0,13500.0
+BK01279,2026-09-19,10:30,SilverScreen Galleria,Delhi,Laugh Riot,Comedy,200,320.0,Family Pack 15%,72,74,2,2,23040.0,23680.0
+BK01604,2026-09-19,10:30,SilverScreen Nexus,Bengaluru,Crazy Summer,Comedy,180,180.0,Early Bird 28%,45,70,25,25,8100.0,12600.0
+BK01864,2026-09-19,10:30,SilverScreen Galleria,Delhi,Cyber Runner,Sci-Fi,200,550.0,None,48,88,40,40,26400.0,48400.0
+BK01928,2026-09-19,10:30,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,320.0,Family Pack 15%,60,77,17,17,19200.0,24640.0
+BK00069,2026-09-19,13:45,SilverScreen Downtown,Mumbai,Crazy Summer,Comedy,250,550.0,None,103,102,-1,1,56650.0,56100.0
+BK00282,2026-09-19,13:45,SilverScreen Nexus,Bengaluru,Crazy Summer,Comedy,180,250.0,None,78,80,2,2,19500.0,20000.0
+BK01151,2026-09-19,13:45,SilverScreen Central,Hyderabad,Starlight Odyssey,Sci-Fi,220,200.0,Student Discount 20%,93,104,11,11,18600.0,20800.0
+BK02065,2026-09-19,13:45,SilverScreen Downtown,Mumbai,Mumbai Express,Action,250,200.0,Student Discount 20%,136,118,-18,18,27200.0,23600.0
+BK02105,2026-09-19,13:45,SilverScreen Galleria,Delhi,Mumbai Express,Action,200,180.0,Early Bird 28%,85,99,14,14,15300.0,17820.0
+BK02141,2026-09-19,13:45,SilverScreen Galleria,Delhi,Dragon Kingdom,Animation,200,180.0,Early Bird 28%,200,88,-112,112,36000.0,15840.0
+BK00355,2026-09-19,17:00,SilverScreen Central,Hyderabad,Laugh Riot,Comedy,220,550.0,None,113,102,-11,11,62150.0,56100.0
+BK00482,2026-09-19,17:00,SilverScreen Galleria,Delhi,Crazy Summer,Comedy,200,320.0,Family Pack 15%,78,108,30,30,24960.0,34560.0
+BK00738,2026-09-19,17:00,SilverScreen Nexus,Bengaluru,Love in Paris,Romance,180,200.0,Student Discount 20%,89,78,-11,11,17800.0,15600.0
+BK00897,2026-09-19,17:00,SilverScreen Forum,Chennai,Crazy Summer,Comedy,150,320.0,Family Pack 15%,68,83,15,15,21760.0,26560.0
+BK01003,2026-09-19,17:00,SilverScreen Forum,Chennai,Love in Paris,Romance,150,550.0,None,63,76,13,13,34650.0,41800.0
+BK01077,2026-09-19,17:00,SilverScreen Galleria,Delhi,Starlight Odyssey,Sci-Fi,200,180.0,Early Bird 28%,98,139,41,41,17640.0,25020.0
+BK01770,2026-09-19,17:00,SilverScreen Central,Hyderabad,Starlight Odyssey,Sci-Fi,220,200.0,Student Discount 20%,145,142,-3,3,29000.0,28400.0
+BK01956,2026-09-19,17:00,SilverScreen Downtown,Mumbai,Crazy Summer,Comedy,250,380.0,None,144,130,-14,14,54720.0,49400.0
+BK02170,2026-09-19,17:00,SilverScreen Galleria,Delhi,Whispering Pines,Horror,200,550.0,None,96,108,12,12,52800.0,59400.0
+BK00157,2026-09-19,20:15,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,320.0,Family Pack 15%,130,111,-19,19,41600.0,35520.0
+BK00177,2026-09-19,20:15,SilverScreen Nexus,Bengaluru,Cyber Runner,Sci-Fi,180,180.0,Early Bird 28%,102,92,-10,10,18360.0,16560.0
+BK00187,2026-09-19,20:15,SilverScreen Galleria,Delhi,Laugh Riot,Comedy,200,200.0,Student Discount 20%,111,110,-1,1,22200.0,22000.0
+BK00364,2026-09-19,20:15,SilverScreen Forum,Chennai,Whispering Pines,Horror,150,180.0,Early Bird 28%,71,74,3,3,12780.0,13320.0
+BK00405,2026-09-19,20:15,SilverScreen Central,Hyderabad,Crimson Verdict,Drama,220,380.0,None,79,95,16,16,30020.0,36100.0
+BK00621,2026-09-19,20:15,SilverScreen Central,Hyderabad,Dragon Kingdom,Animation,220,320.0,Family Pack 15%,105,101,-4,4,33600.0,32320.0
+BK01223,2026-09-19,20:15,SilverScreen Central,Hyderabad,Crimson Verdict,Drama,220,200.0,Student Discount 20%,98,97,-1,1,19600.0,19400.0
+BK01420,2026-09-19,20:15,SilverScreen Downtown,Mumbai,Starlight Odyssey,Sci-Fi,250,320.0,Family Pack 15%,164,140,-24,24,52480.0,44800.0
+BK01557,2026-09-19,20:15,SilverScreen Nexus,Bengaluru,Shadow Strike,Action,180,250.0,None,111,94,-17,17,27750.0,23500.0
+BK01639,2026-09-19,20:15,SilverScreen Central,Hyderabad,Dragon Kingdom,Animation,220,200.0,Student Discount 20%,155,109,-46,46,31000.0,21800.0
+BK01871,2026-09-19,20:15,SilverScreen Downtown,Mumbai,Cyber Runner,Sci-Fi,250,180.0,Early Bird 28%,119,138,19,19,21420.0,24840.0
+BK02127,2026-09-19,20:15,SilverScreen Central,Hyderabad,Crimson Verdict,Drama,220,250.0,None,66,97,31,31,16500.0,24250.0
+BK00375,2026-09-19,22:45,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,320.0,Family Pack 15%,135,114,-21,21,43200.0,36480.0
+BK00408,2026-09-19,22:45,SilverScreen Galleria,Delhi,Dragon Kingdom,Animation,200,320.0,Family Pack 15%,86,110,24,24,27520.0,35200.0
+BK00678,2026-09-19,22:45,SilverScreen Forum,Chennai,Crazy Summer,Comedy,150,380.0,None,78,82,4,4,29640.0,31160.0
+BK00742,2026-09-19,22:45,SilverScreen Central,Hyderabad,Mumbai Express,Action,220,180.0,Early Bird 28%,92,115,23,23,16560.0,20700.0
+BK00799,2026-09-19,22:45,SilverScreen Forum,Chennai,Cyber Runner,Sci-Fi,150,250.0,None,70,82,12,12,17500.0,20500.0
+BK00812,2026-09-19,22:45,SilverScreen Nexus,Bengaluru,Dragon Kingdom,Animation,180,550.0,None,73,89,16,16,40150.0,48950.0
+BK01068,2026-09-19,22:45,SilverScreen Central,Hyderabad,Cyber Runner,Sci-Fi,220,200.0,Student Discount 20%,122,129,7,7,24400.0,25800.0
+BK01713,2026-09-19,22:45,SilverScreen Central,Hyderabad,Cyber Runner,Sci-Fi,220,180.0,Early Bird 28%,63,128,65,65,11340.0,23040.0
+BK00129,2026-09-20,10:30,SilverScreen Central,Hyderabad,Crimson Verdict,Drama,220,200.0,Student Discount 20%,60,76,16,16,12000.0,15200.0
+BK00528,2026-09-20,10:30,SilverScreen Forum,Chennai,Love in Paris,Romance,150,200.0,Student Discount 20%,43,63,20,20,8600.0,12600.0
+BK01507,2026-09-20,10:30,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,200.0,Student Discount 20%,63,69,6,6,12600.0,13800.0
+BK01880,2026-09-20,10:30,SilverScreen Downtown,Mumbai,Crimson Verdict,Drama,250,250.0,None,50,84,34,34,12500.0,21000.0
+BK01891,2026-09-20,10:30,SilverScreen Forum,Chennai,Crimson Verdict,Drama,150,200.0,Student Discount 20%,46,59,13,13,9200.0,11800.0
+BK00337,2026-09-20,13:45,SilverScreen Nexus,Bengaluru,Starlight Odyssey,Sci-Fi,180,250.0,None,79,81,2,2,19750.0,20250.0
+BK00615,2026-09-20,13:45,SilverScreen Forum,Chennai,Starlight Odyssey,Sci-Fi,150,320.0,Family Pack 15%,105,78,-27,27,33600.0,24960.0
+BK01349,2026-09-20,13:45,SilverScreen Central,Hyderabad,Crimson Verdict,Drama,220,550.0,None,47,86,39,39,25850.0,47300.0
+BK01512,2026-09-20,13:45,SilverScreen Galleria,Delhi,Love in Paris,Romance,200,250.0,None,65,80,15,15,16250.0,20000.0
+BK01647,2026-09-20,13:45,SilverScreen Nexus,Bengaluru,Starlight Odyssey,Sci-Fi,180,380.0,None,88,81,-7,7,33440.0,30780.0
+BK02025,2026-09-20,13:45,SilverScreen Downtown,Mumbai,Starlight Odyssey,Sci-Fi,250,550.0,None,65,115,50,50,35750.0,63250.0
+BK00433,2026-09-20,17:00,SilverScreen Galleria,Delhi,Crazy Summer,Comedy,200,180.0,Early Bird 28%,89,110,21,21,16020.0,19800.0
+BK00595,2026-09-20,17:00,SilverScreen Galleria,Delhi,Love in Paris,Romance,200,550.0,None,100,104,4,4,55000.0,57200.0
+BK00643,2026-09-20,17:00,SilverScreen Galleria,Delhi,Crimson Verdict,Drama,200,550.0,None,75,88,13,13,41250.0,48400.0
+BK00674,2026-09-20,17:00,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,320.0,Family Pack 15%,91,96,5,5,29120.0,30720.0
+BK00692,2026-09-20,17:00,SilverScreen Central,Hyderabad,Crimson Verdict,Drama,220,380.0,None,107,97,-10,10,40660.0,36860.0
+BK00948,2026-09-20,17:00,SilverScreen Galleria,Delhi,Whispering Pines,Horror,200,180.0,Early Bird 28%,77,109,32,32,13860.0,19620.0
+BK01489,2026-09-20,17:00,SilverScreen Galleria,Delhi,Laugh Riot,Comedy,200,550.0,None,79,110,31,31,43450.0,60500.0
+BK00540,2026-09-20,20:15,SilverScreen Galleria,Delhi,Whispering Pines,Horror,200,250.0,None,79,111,32,32,19750.0,27750.0
+BK00714,2026-09-20,20:15,SilverScreen Forum,Chennai,Laugh Riot,Comedy,150,320.0,Family Pack 15%,82,88,6,6,26240.0,28160.0
+BK01082,2026-09-20,20:15,SilverScreen Downtown,Mumbai,Crazy Summer,Comedy,250,380.0,None,110,124,14,14,41800.0,47120.0
+BK01090,2026-09-20,20:15,SilverScreen Galleria,Delhi,Laugh Riot,Comedy,200,380.0,None,100,113,13,13,38000.0,42940.0
+BK01720,2026-09-20,20:15,SilverScreen Forum,Chennai,Love in Paris,Romance,150,180.0,Early Bird 28%,58,75,17,17,10440.0,13500.0
+BK00728,2026-09-20,22:45,SilverScreen Central,Hyderabad,Starlight Odyssey,Sci-Fi,220,180.0,Early Bird 28%,117,128,11,11,21060.0,23040.0
+BK00882,2026-09-20,22:45,SilverScreen Galleria,Delhi,Whispering Pines,Horror,200,200.0,Student Discount 20%,64,106,42,42,12800.0,21200.0
+BK01719,2026-09-20,22:45,SilverScreen Forum,Chennai,Crimson Verdict,Drama,150,250.0,None,57,62,5,5,14250.0,15500.0
+BK01827,2026-09-20,22:45,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,380.0,None,53,84,31,31,20140.0,31920.0
+BK00219,2026-09-21,10:30,SilverScreen Forum,Chennai,Crazy Summer,Comedy,150,320.0,Family Pack 15%,22,41,19,19,7040.0,13120.0
+BK01971,2026-09-21,10:30,SilverScreen Nexus,Bengaluru,Love in Paris,Romance,180,320.0,Family Pack 15%,39,41,2,2,12480.0,13120.0
+BK00309,2026-09-21,13:45,SilverScreen Galleria,Delhi,Crimson Verdict,Drama,200,550.0,None,52,53,1,1,28600.0,29150.0
+BK00348,2026-09-21,13:45,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,250.0,None,28,44,16,16,7000.0,11000.0
+BK00444,2026-09-21,13:45,SilverScreen Central,Hyderabad,Dragon Kingdom,Animation,220,380.0,None,64,58,-6,6,24320.0,22040.0
+BK00663,2026-09-21,13:45,SilverScreen Downtown,Mumbai,Cyber Runner,Sci-Fi,250,250.0,None,77,81,4,4,19250.0,20250.0
+BK01276,2026-09-21,13:45,SilverScreen Forum,Chennai,Crimson Verdict,Drama,150,250.0,None,34,40,6,6,8500.0,10000.0
+BK01305,2026-09-21,13:45,SilverScreen Central,Hyderabad,Cyber Runner,Sci-Fi,220,320.0,Family Pack 15%,78,69,-9,9,24960.0,22080.0
+BK01819,2026-09-21,13:45,SilverScreen Downtown,Mumbai,Cyber Runner,Sci-Fi,250,550.0,None,73,73,0,0,40150.0,40150.0
+BK01922,2026-09-21,13:45,SilverScreen Galleria,Delhi,Shadow Strike,Action,200,550.0,None,71,71,0,0,39050.0,39050.0
+BK02102,2026-09-21,13:45,SilverScreen Central,Hyderabad,Dragon Kingdom,Animation,220,250.0,None,49,67,18,18,12250.0,16750.0
+BK02177,2026-09-21,13:45,SilverScreen Nexus,Bengaluru,Love in Paris,Romance,180,380.0,None,18,52,34,34,6840.0,19760.0
+BK00340,2026-09-21,17:00,SilverScreen Nexus,Bengaluru,Cyber Runner,Sci-Fi,180,320.0,Family Pack 15%,66,70,4,4,21120.0,22400.0
+BK00531,2026-09-21,17:00,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,320.0,Family Pack 15%,68,60,-8,8,21760.0,19200.0
+BK00968,2026-09-21,17:00,SilverScreen Galleria,Delhi,Shadow Strike,Action,200,320.0,Family Pack 15%,108,99,-9,9,34560.0,31680.0
+BK01019,2026-09-21,17:00,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,180.0,Early Bird 28%,54,66,12,12,9720.0,11880.0
+BK01023,2026-09-21,17:00,SilverScreen Galleria,Delhi,Crimson Verdict,Drama,200,200.0,Student Discount 20%,57,73,16,16,11400.0,14600.0
+BK01745,2026-09-21,17:00,SilverScreen Forum,Chennai,Crazy Summer,Comedy,150,550.0,None,40,59,19,19,22000.0,32450.0
+BK00377,2026-09-21,20:15,SilverScreen Nexus,Bengaluru,Shadow Strike,Action,180,200.0,Student Discount 20%,84,81,-3,3,16800.0,16200.0
+BK00397,2026-09-21,20:15,SilverScreen Downtown,Mumbai,Crazy Summer,Comedy,250,180.0,Early Bird 28%,51,88,37,37,9180.0,15840.0
+BK00473,2026-09-21,20:15,SilverScreen Nexus,Bengaluru,Mumbai Express,Action,180,250.0,None,62,81,19,19,15500.0,20250.0
+BK00637,2026-09-21,20:15,SilverScreen Galleria,Delhi,Dragon Kingdom,Animation,200,380.0,None,92,75,-17,17,34960.0,28500.0
+BK00806,2026-09-21,20:15,SilverScreen Nexus,Bengaluru,Love in Paris,Romance,180,550.0,None,51,64,13,13,28050.0,35200.0
+BK01046,2026-09-21,20:15,SilverScreen Central,Hyderabad,Crazy Summer,Comedy,220,550.0,None,91,78,-13,13,50050.0,42900.0
+BK00047,2026-09-21,22:45,SilverScreen Galleria,Delhi,Love in Paris,Romance,200,250.0,None,39,54,15,15,9750.0,13500.0
+BK00101,2026-09-21,22:45,SilverScreen Forum,Chennai,Mumbai Express,Action,150,320.0,Family Pack 15%,36,72,36,36,11520.0,23040.0
+BK00155,2026-09-21,22:45,SilverScreen Downtown,Mumbai,Mumbai Express,Action,250,200.0,Student Discount 20%,94,102,8,8,18800.0,20400.0
+BK00362,2026-09-21,22:45,SilverScreen Central,Hyderabad,Love in Paris,Romance,220,380.0,None,77,48,-29,29,29260.0,18240.0
+BK00478,2026-09-21,22:45,SilverScreen Downtown,Mumbai,Shadow Strike,Action,250,550.0,None,80,88,8,8,44000.0,48400.0
+BK00580,2026-09-21,22:45,SilverScreen Downtown,Mumbai,Shadow Strike,Action,250,550.0,None,97,88,-9,9,53350.0,48400.0
+BK00640,2026-09-21,22:45,SilverScreen Downtown,Mumbai,Shadow Strike,Action,250,250.0,None,48,93,45,45,12000.0,23250.0
+BK00868,2026-09-21,22:45,SilverScreen Central,Hyderabad,Dragon Kingdom,Animation,220,320.0,Family Pack 15%,71,69,-2,2,22720.0,22080.0
+BK00936,2026-09-21,22:45,SilverScreen Forum,Chennai,Crimson Verdict,Drama,150,250.0,None,26,43,17,17,6500.0,10750.0
+BK01258,2026-09-21,22:45,SilverScreen Galleria,Delhi,Mumbai Express,Action,200,250.0,None,77,87,10,10,19250.0,21750.0
+BK01481,2026-09-21,22:45,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,320.0,Family Pack 15%,53,61,8,8,16960.0,19520.0
+BK00016,2026-09-22,10:30,SilverScreen Nexus,Bengaluru,Shadow Strike,Action,180,200.0,Student Discount 20%,31,38,7,7,6200.0,7600.0
+BK00452,2026-09-22,10:30,SilverScreen Downtown,Mumbai,Laugh Riot,Comedy,250,550.0,None,71,60,-11,11,39050.0,33000.0
+BK00988,2026-09-22,10:30,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,550.0,None,63,69,6,6,34650.0,37950.0
+BK01083,2026-09-22,10:30,SilverScreen Forum,Chennai,Crimson Verdict,Drama,150,180.0,Early Bird 28%,20,28,8,8,3600.0,5040.0
+BK01139,2026-09-22,10:30,SilverScreen Downtown,Mumbai,Love in Paris,Romance,250,380.0,None,54,57,3,3,20520.0,21660.0
+BK02144,2026-09-22,10:30,SilverScreen Nexus,Bengaluru,Dragon Kingdom,Animation,180,550.0,None,43,39,-4,4,23650.0,21450.0
+BK00096,2026-09-22,13:45,SilverScreen Central,Hyderabad,Cyber Runner,Sci-Fi,220,550.0,None,43,61,18,18,23650.0,33550.0
+BK00236,2026-09-22,13:45,SilverScreen Galleria,Delhi,Shadow Strike,Action,200,200.0,Student Discount 20%,70,69,-1,1,14000.0,13800.0
+BK00303,2026-09-22,13:45,SilverScreen Central,Hyderabad,Crazy Summer,Comedy,220,550.0,None,70,48,-22,22,38500.0,26400.0
+BK00582,2026-09-22,13:45,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,250.0,None,58,85,27,27,14500.0,21250.0
+BK00593,2026-09-22,13:45,SilverScreen Forum,Chennai,Whispering Pines,Horror,150,320.0,Family Pack 15%,42,40,-2,2,13440.0,12800.0
+BK00801,2026-09-22,13:45,SilverScreen Forum,Chennai,Cyber Runner,Sci-Fi,150,250.0,None,58,66,8,8,14500.0,16500.0
+BK01017,2026-09-22,13:45,SilverScreen Downtown,Mumbai,Dragon Kingdom,Animation,250,200.0,Student Discount 20%,61,78,17,17,12200.0,15600.0
+BK01159,2026-09-22,13:45,SilverScreen Central,Hyderabad,Dragon Kingdom,Animation,220,250.0,None,83,67,-16,16,20750.0,16750.0
+BK01410,2026-09-22,13:45,SilverScreen Central,Hyderabad,Crazy Summer,Comedy,220,250.0,None,52,59,7,7,13000.0,14750.0
+BK00384,2026-09-22,17:00,SilverScreen Forum,Chennai,Mumbai Express,Action,150,180.0,Early Bird 28%,64,70,6,6,11520.0,12600.0
+BK00416,2026-09-22,17:00,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,380.0,None,58,67,9,9,22040.0,25460.0
+BK00500,2026-09-22,17:00,SilverScreen Central,Hyderabad,Laugh Riot,Comedy,220,200.0,Student Discount 20%,59,86,27,27,11800.0,17200.0
+BK00698,2026-09-22,17:00,SilverScreen Galleria,Delhi,Cyber Runner,Sci-Fi,200,320.0,Family Pack 15%,63,77,14,14,20160.0,24640.0
+BK00736,2026-09-22,17:00,SilverScreen Nexus,Bengaluru,Crazy Summer,Comedy,180,200.0,Student Discount 20%,68,63,-5,5,13600.0,12600.0
+BK01231,2026-09-22,17:00,SilverScreen Downtown,Mumbai,Dragon Kingdom,Animation,250,250.0,None,88,96,8,8,22000.0,24000.0
+BK01396,2026-09-22,17:00,SilverScreen Central,Hyderabad,Starlight Odyssey,Sci-Fi,220,180.0,Early Bird 28%,102,84,-18,18,18360.0,15120.0
+BK01501,2026-09-22,17:00,SilverScreen Forum,Chennai,Crazy Summer,Comedy,150,250.0,None,61,61,0,0,15250.0,15250.0
+BK01516,2026-09-22,17:00,SilverScreen Galleria,Delhi,Crimson Verdict,Drama,200,200.0,Student Discount 20%,56,73,17,17,11200.0,14600.0
+BK01547,2026-09-22,17:00,SilverScreen Galleria,Delhi,Dragon Kingdom,Animation,200,180.0,Early Bird 28%,63,77,14,14,11340.0,13860.0
+BK01621,2026-09-22,17:00,SilverScreen Nexus,Bengaluru,Starlight Odyssey,Sci-Fi,180,180.0,Early Bird 28%,83,77,-6,6,14940.0,13860.0
+BK02037,2026-09-22,17:00,SilverScreen Nexus,Bengaluru,Starlight Odyssey,Sci-Fi,180,380.0,None,87,76,-11,11,33060.0,28880.0
+BK02143,2026-09-22,17:00,SilverScreen Central,Hyderabad,Crazy Summer,Comedy,220,250.0,None,78,86,8,8,19500.0,21500.0
+BK00131,2026-09-22,20:15,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,250.0,None,36,68,32,32,9000.0,17000.0
+BK00498,2026-09-22,20:15,SilverScreen Nexus,Bengaluru,Dragon Kingdom,Animation,180,380.0,None,69,76,7,7,26220.0,28880.0
+BK00538,2026-09-22,20:15,SilverScreen Nexus,Bengaluru,Cyber Runner,Sci-Fi,180,550.0,None,69,79,10,10,37950.0,43450.0
+BK00668,2026-09-22,20:15,SilverScreen Galleria,Delhi,Whispering Pines,Horror,200,320.0,Family Pack 15%,89,70,-19,19,28480.0,22400.0
+BK00745,2026-09-22,20:15,SilverScreen Galleria,Delhi,Crazy Summer,Comedy,200,180.0,Early Bird 28%,77,74,-3,3,13860.0,13320.0
+BK00829,2026-09-22,20:15,SilverScreen Galleria,Delhi,Mumbai Express,Action,200,250.0,None,87,95,8,8,21750.0,23750.0
+BK00848,2026-09-22,20:15,SilverScreen Central,Hyderabad,Crazy Summer,Comedy,220,250.0,None,118,92,-26,26,29500.0,23000.0
+BK01033,2026-09-22,20:15,SilverScreen Galleria,Delhi,Laugh Riot,Comedy,200,250.0,None,82,81,-1,1,20500.0,20250.0
+BK01099,2026-09-22,20:15,SilverScreen Galleria,Delhi,Crimson Verdict,Drama,200,180.0,Early Bird 28%,72,74,2,2,12960.0,13320.0
+BK01794,2026-09-22,20:15,SilverScreen Galleria,Delhi,Cyber Runner,Sci-Fi,200,180.0,Early Bird 28%,94,84,-10,10,16920.0,15120.0
+BK02040,2026-09-22,20:15,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,380.0,None,56,105,49,49,21280.0,39900.0
+BK02091,2026-09-22,20:15,SilverScreen Central,Hyderabad,Cyber Runner,Sci-Fi,220,320.0,Family Pack 15%,97,103,6,6,31040.0,32960.0
+BK02092,2026-09-22,20:15,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,380.0,None,63,67,4,4,23940.0,25460.0
+BK00393,2026-09-22,22:45,SilverScreen Forum,Chennai,Laugh Riot,Comedy,150,550.0,None,27,81,54,54,14850.0,44550.0
+BK00466,2026-09-22,22:45,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,200.0,Student Discount 20%,61,84,23,23,12200.0,16800.0
+BK00720,2026-09-22,22:45,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,320.0,Family Pack 15%,52,51,-1,1,16640.0,16320.0
+BK01579,2026-09-22,22:45,SilverScreen Forum,Chennai,Crimson Verdict,Drama,150,200.0,Student Discount 20%,24,47,23,23,4800.0,9400.0
+BK01607,2026-09-22,22:45,SilverScreen Central,Hyderabad,Cyber Runner,Sci-Fi,220,250.0,None,70,77,7,7,17500.0,19250.0
+BK01694,2026-09-22,22:45,SilverScreen Nexus,Bengaluru,Cyber Runner,Sci-Fi,180,550.0,None,37,62,25,25,20350.0,34100.0
+BK01771,2026-09-22,22:45,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,550.0,None,44,57,13,13,24200.0,31350.0
+BK01785,2026-09-22,22:45,SilverScreen Central,Hyderabad,Starlight Odyssey,Sci-Fi,220,320.0,Family Pack 15%,76,72,-4,4,24320.0,23040.0
+BK01935,2026-09-22,22:45,SilverScreen Downtown,Mumbai,Dragon Kingdom,Animation,250,180.0,Early Bird 28%,127,75,-52,52,22860.0,13500.0
+BK00048,2026-09-23,10:30,SilverScreen Downtown,Mumbai,Dragon Kingdom,Animation,250,250.0,None,76,64,-12,12,19000.0,16000.0
+BK00492,2026-09-23,10:30,SilverScreen Downtown,Mumbai,Starlight Odyssey,Sci-Fi,250,550.0,None,250,59,-191,191,137500.0,32450.0
+BK00994,2026-09-23,10:30,SilverScreen Galleria,Delhi,Love in Paris,Romance,200,320.0,Family Pack 15%,23,45,22,22,7360.0,14400.0
+BK01185,2026-09-23,10:30,SilverScreen Downtown,Mumbai,Laugh Riot,Comedy,250,200.0,Student Discount 20%,32,53,21,21,6400.0,10600.0
+BK01606,2026-09-23,10:30,SilverScreen Downtown,Mumbai,Love in Paris,Romance,250,250.0,None,25,58,33,33,6250.0,14500.0
+BK02161,2026-09-23,10:30,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,180.0,Early Bird 28%,22,47,25,25,3960.0,8460.0
+BK00218,2026-09-23,13:45,SilverScreen Central,Hyderabad,Laugh Riot,Comedy,220,200.0,Student Discount 20%,58,65,7,7,11600.0,13000.0
+BK00587,2026-09-23,13:45,SilverScreen Galleria,Delhi,Crazy Summer,Comedy,200,550.0,None,44,51,7,7,24200.0,28050.0
+BK01125,2026-09-23,13:45,SilverScreen Downtown,Mumbai,Crazy Summer,Comedy,250,550.0,None,97,63,-34,34,53350.0,34650.0
+BK01186,2026-09-23,13:45,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,180.0,Early Bird 28%,56,45,-11,11,10080.0,8100.0
+BK01843,2026-09-23,13:45,SilverScreen Galleria,Delhi,Dragon Kingdom,Animation,200,380.0,None,51,56,5,5,19380.0,21280.0
+BK01910,2026-09-23,13:45,SilverScreen Nexus,Bengaluru,Laugh Riot,Comedy,180,320.0,Family Pack 15%,53,59,6,6,16960.0,18880.0
+BK00275,2026-09-23,17:00,SilverScreen Galleria,Delhi,Dragon Kingdom,Animation,200,250.0,None,63,79,16,16,15750.0,19750.0
+BK00279,2026-09-23,17:00,SilverScreen Galleria,Delhi,Love in Paris,Romance,200,250.0,None,62,67,5,5,15500.0,16750.0
+BK00659,2026-09-23,17:00,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,380.0,None,91,99,8,8,34580.0,37620.0
+BK00859,2026-09-23,17:00,SilverScreen Central,Hyderabad,Crimson Verdict,Drama,220,320.0,Family Pack 15%,54,86,32,32,17280.0,27520.0
+BK01551,2026-09-23,17:00,SilverScreen Nexus,Bengaluru,Cyber Runner,Sci-Fi,180,380.0,None,73,76,3,3,27740.0,28880.0
+BK01628,2026-09-23,17:00,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,550.0,None,110,94,-16,16,60500.0,51700.0
+BK01711,2026-09-23,17:00,SilverScreen Downtown,Mumbai,Crazy Summer,Comedy,250,380.0,None,108,83,-25,25,41040.0,31540.0
+BK00317,2026-09-23,20:15,SilverScreen Forum,Chennai,Mumbai Express,Action,150,250.0,None,78,69,-9,9,19500.0,17250.0
+BK00427,2026-09-23,20:15,SilverScreen Forum,Chennai,Starlight Odyssey,Sci-Fi,150,320.0,Family Pack 15%,56,64,8,8,17920.0,20480.0
+BK00702,2026-09-23,20:15,SilverScreen Central,Hyderabad,Cyber Runner,Sci-Fi,220,180.0,Early Bird 28%,110,97,-13,13,19800.0,17460.0
+BK00926,2026-09-23,20:15,SilverScreen Forum,Chennai,Shadow Strike,Action,150,180.0,Early Bird 28%,41,68,27,27,7380.0,12240.0
+BK01235,2026-09-23,20:15,SilverScreen Central,Hyderabad,Crazy Summer,Comedy,220,380.0,None,61,81,20,20,23180.0,30780.0
+BK01552,2026-09-23,20:15,SilverScreen Downtown,Mumbai,Love in Paris,Romance,250,320.0,Family Pack 15%,72,91,19,19,23040.0,29120.0
+BK01636,2026-09-23,20:15,SilverScreen Downtown,Mumbai,Whispering Pines,Horror,250,250.0,None,73,68,-5,5,18250.0,17000.0
+BK01866,2026-09-23,20:15,SilverScreen Galleria,Delhi,Mumbai Express,Action,200,200.0,Student Discount 20%,67,96,29,29,13400.0,19200.0
+BK02082,2026-09-23,20:15,SilverScreen Downtown,Mumbai,Crimson Verdict,Drama,250,380.0,None,84,83,-1,1,31920.0,31540.0
+BK00028,2026-09-23,22:45,SilverScreen Downtown,Mumbai,Laugh Riot,Comedy,250,180.0,Early Bird 28%,78,73,-5,5,14040.0,13140.0
+BK00307,2026-09-23,22:45,SilverScreen Downtown,Mumbai,Dragon Kingdom,Animation,250,250.0,None,100,76,-24,24,25000.0,19000.0
+BK00834,2026-09-23,22:45,SilverScreen Downtown,Mumbai,Whispering Pines,Horror,250,320.0,Family Pack 15%,45,52,7,7,14400.0,16640.0
+BK00974,2026-09-23,22:45,SilverScreen Galleria,Delhi,Shadow Strike,Action,200,200.0,Student Discount 20%,49,79,30,30,9800.0,15800.0
+BK01161,2026-09-23,22:45,SilverScreen Galleria,Delhi,Crimson Verdict,Drama,200,200.0,Student Discount 20%,20,64,44,44,4000.0,12800.0
+BK01472,2026-09-23,22:45,SilverScreen Galleria,Delhi,Cyber Runner,Sci-Fi,200,380.0,None,52,69,17,17,19760.0,26220.0
+BK01678,2026-09-23,22:45,SilverScreen Downtown,Mumbai,Love in Paris,Romance,250,200.0,Student Discount 20%,88,59,-29,29,17600.0,11800.0
+BK01936,2026-09-23,22:45,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,180.0,Early Bird 28%,27,62,35,35,4860.0,11160.0
+BK02080,2026-09-23,22:45,SilverScreen Central,Hyderabad,Love in Paris,Romance,220,380.0,None,43,48,5,5,16340.0,18240.0
+BK00098,2026-09-24,10:30,SilverScreen Galleria,Delhi,Crimson Verdict,Drama,200,320.0,Family Pack 15%,36,49,13,13,11520.0,15680.0
+BK00592,2026-09-24,10:30,SilverScreen Forum,Chennai,Crazy Summer,Comedy,150,180.0,Early Bird 28%,22,37,15,15,3960.0,6660.0
+BK00888,2026-09-24,10:30,SilverScreen Downtown,Mumbai,Crimson Verdict,Drama,250,180.0,Early Bird 28%,32,48,16,16,5760.0,8640.0
+BK01850,2026-09-24,10:30,SilverScreen Downtown,Mumbai,Whispering Pines,Horror,250,200.0,Student Discount 20%,53,47,-6,6,10600.0,9400.0
+BK02051,2026-09-24,10:30,SilverScreen Central,Hyderabad,Crazy Summer,Comedy,220,380.0,None,56,53,-3,3,21280.0,20140.0
+BK02074,2026-09-24,10:30,SilverScreen Nexus,Bengaluru,Shadow Strike,Action,180,200.0,Student Discount 20%,42,38,-4,4,8400.0,7600.0
+BK02119,2026-09-24,10:30,SilverScreen Central,Hyderabad,Mumbai Express,Action,220,200.0,Student Discount 20%,22,70,48,48,4400.0,14000.0
+BK00011,2026-09-24,13:45,SilverScreen Galleria,Delhi,Cyber Runner,Sci-Fi,200,250.0,None,55,69,14,14,13750.0,17250.0
+BK00055,2026-09-24,13:45,SilverScreen Downtown,Mumbai,Cyber Runner,Sci-Fi,250,250.0,None,98,81,-17,17,24500.0,20250.0
+BK01213,2026-09-24,13:45,SilverScreen Nexus,Bengaluru,Love in Paris,Romance,180,200.0,Student Discount 20%,31,49,18,18,6200.0,9800.0
+BK01806,2026-09-24,13:45,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,320.0,Family Pack 15%,21,49,28,28,6720.0,15680.0
+BK00754,2026-09-24,17:00,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,320.0,Family Pack 15%,73,60,-13,13,23360.0,19200.0
+BK00857,2026-09-24,17:00,SilverScreen Galleria,Delhi,Crimson Verdict,Drama,200,250.0,None,44,74,30,30,11000.0,18500.0
+BK01703,2026-09-24,17:00,SilverScreen Downtown,Mumbai,Starlight Odyssey,Sci-Fi,250,320.0,Family Pack 15%,125,93,-32,32,40000.0,29760.0
+BK01838,2026-09-24,17:00,SilverScreen Nexus,Bengaluru,Shadow Strike,Action,180,200.0,Student Discount 20%,73,82,9,9,14600.0,16400.0
+BK01920,2026-09-24,17:00,SilverScreen Nexus,Bengaluru,Starlight Odyssey,Sci-Fi,180,320.0,Family Pack 15%,74,70,-4,4,23680.0,22400.0
+BK00078,2026-09-24,20:15,SilverScreen Downtown,Mumbai,Starlight Odyssey,Sci-Fi,250,380.0,None,107,95,-12,12,40660.0,36100.0
+BK00244,2026-09-24,20:15,SilverScreen Downtown,Mumbai,Love in Paris,Romance,250,320.0,Family Pack 15%,94,91,-3,3,30080.0,29120.0
+BK00434,2026-09-24,20:15,SilverScreen Galleria,Delhi,Crimson Verdict,Drama,200,320.0,Family Pack 15%,69,76,7,7,22080.0,24320.0
+BK00563,2026-09-24,20:15,SilverScreen Downtown,Mumbai,Crazy Summer,Comedy,250,180.0,Early Bird 28%,103,88,-15,15,18540.0,15840.0
+BK00820,2026-09-24,20:15,SilverScreen Central,Hyderabad,Cyber Runner,Sci-Fi,220,320.0,Family Pack 15%,110,103,-7,7,35200.0,32960.0
+BK01384,2026-09-24,20:15,SilverScreen Downtown,Mumbai,Dragon Kingdom,Animation,250,550.0,None,87,93,6,6,47850.0,51150.0
+BK01437,2026-09-24,20:15,SilverScreen Central,Hyderabad,Laugh Riot,Comedy,220,380.0,None,79,84,5,5,30020.0,31920.0
+BK01442,2026-09-24,20:15,SilverScreen Nexus,Bengaluru,Crimson Verdict,Drama,180,250.0,None,69,68,-1,1,17250.0,17000.0
+BK01504,2026-09-24,20:15,SilverScreen Downtown,Mumbai,Shadow Strike,Action,250,320.0,Family Pack 15%,99,105,6,6,31680.0,33600.0
+BK01541,2026-09-24,20:15,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,250.0,None,59,65,6,6,14750.0,16250.0
+BK01644,2026-09-24,20:15,SilverScreen Nexus,Bengaluru,Crimson Verdict,Drama,180,250.0,None,58,68,10,10,14500.0,17000.0
+BK02154,2026-09-24,20:15,SilverScreen Forum,Chennai,Shadow Strike,Action,150,250.0,None,62,68,6,6,15500.0,17000.0
+BK00633,2026-09-24,22:45,SilverScreen Nexus,Bengaluru,Love in Paris,Romance,180,380.0,None,39,54,15,15,14820.0,20520.0
+BK00942,2026-09-24,22:45,SilverScreen Central,Hyderabad,Laugh Riot,Comedy,220,320.0,Family Pack 15%,78,67,-11,11,24960.0,21440.0
+BK01344,2026-09-24,22:45,SilverScreen Nexus,Bengaluru,Love in Paris,Romance,180,550.0,None,58,54,-4,4,31900.0,29700.0
+BK01426,2026-09-24,22:45,SilverScreen Nexus,Bengaluru,Mumbai Express,Action,180,550.0,None,35,72,37,37,19250.0,39600.0
+BK01889,2026-09-25,10:30,SilverScreen Nexus,Bengaluru,Crazy Summer,Comedy,180,550.0,None,27,43,16,16,14850.0,23650.0
+BK02172,2026-09-25,10:30,SilverScreen Downtown,Mumbai,Crimson Verdict,Drama,250,250.0,None,38,50,12,12,9500.0,12500.0
+BK00189,2026-09-25,13:45,SilverScreen Central,Hyderabad,Love in Paris,Romance,220,320.0,Family Pack 15%,36,54,18,18,11520.0,17280.0
+BK00191,2026-09-25,13:45,SilverScreen Forum,Chennai,Crazy Summer,Comedy,150,550.0,None,33,46,13,13,18150.0,25300.0
+BK00262,2026-09-25,13:45,SilverScreen Nexus,Bengaluru,Mumbai Express,Action,180,180.0,Early Bird 28%,62,69,7,7,11160.0,12420.0
+BK00300,2026-09-25,13:45,SilverScreen Nexus,Bengaluru,Crimson Verdict,Drama,180,200.0,Student Discount 20%,48,43,-5,5,9600.0,8600.0
+BK00737,2026-09-25,13:45,SilverScreen Nexus,Bengaluru,Cyber Runner,Sci-Fi,180,380.0,None,60,68,8,8,22800.0,25840.0
+BK00849,2026-09-25,13:45,SilverScreen Central,Hyderabad,Dragon Kingdom,Animation,220,550.0,None,54,57,3,3,29700.0,31350.0
+BK01122,2026-09-25,13:45,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,200.0,Student Discount 20%,86,84,-2,2,17200.0,16800.0
+BK01656,2026-09-25,13:45,SilverScreen Nexus,Bengaluru,Cyber Runner,Sci-Fi,180,550.0,None,52,66,14,14,28600.0,36300.0
+BK01751,2026-09-25,13:45,SilverScreen Galleria,Delhi,Laugh Riot,Comedy,200,180.0,Early Bird 28%,20,51,31,31,3600.0,9180.0
+BK01901,2026-09-25,13:45,SilverScreen Forum,Chennai,Crazy Summer,Comedy,150,180.0,Early Bird 28%,47,42,-5,5,8460.0,7560.0
+BK00281,2026-09-25,17:00,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,550.0,None,91,70,-21,21,50050.0,38500.0
+BK00641,2026-09-25,17:00,SilverScreen Forum,Chennai,Love in Paris,Romance,150,200.0,Student Discount 20%,53,52,-1,1,10600.0,10400.0
+BK00973,2026-09-25,17:00,SilverScreen Galleria,Delhi,Shadow Strike,Action,200,380.0,None,112,87,-25,25,42560.0,33060.0
+BK01011,2026-09-25,17:00,SilverScreen Downtown,Mumbai,Crazy Summer,Comedy,250,320.0,Family Pack 15%,133,90,-43,43,42560.0,28800.0
+BK01538,2026-09-25,17:00,SilverScreen Downtown,Mumbai,Love in Paris,Romance,250,550.0,None,85,79,-6,6,46750.0,43450.0
+BK01620,2026-09-25,17:00,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,550.0,None,88,61,-27,27,48400.0,33550.0
+BK00220,2026-09-25,20:15,SilverScreen Downtown,Mumbai,Shadow Strike,Action,250,180.0,Early Bird 28%,125,88,-37,37,22500.0,15840.0
+BK00331,2026-09-25,20:15,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,250.0,None,89,70,-19,19,22250.0,17500.0
+BK01238,2026-09-25,20:15,SilverScreen Downtown,Mumbai,Whispering Pines,Horror,250,550.0,None,90,70,-20,20,49500.0,38500.0
+BK02131,2026-09-25,20:15,SilverScreen Downtown,Mumbai,Love in Paris,Romance,250,180.0,Early Bird 28%,104,84,-20,20,18720.0,15120.0
+BK00034,2026-09-25,22:45,SilverScreen Galleria,Delhi,Dragon Kingdom,Animation,200,320.0,Family Pack 15%,62,75,13,13,19840.0,24000.0
+BK00158,2026-09-25,22:45,SilverScreen Forum,Chennai,Laugh Riot,Comedy,150,320.0,Family Pack 15%,62,72,10,10,19840.0,23040.0
+BK00731,2026-09-25,22:45,SilverScreen Central,Hyderabad,Laugh Riot,Comedy,220,200.0,Student Discount 20%,87,73,-14,14,17400.0,14600.0
+BK01210,2026-09-25,22:45,SilverScreen Galleria,Delhi,Mumbai Express,Action,200,200.0,Student Discount 20%,122,92,-30,30,24400.0,18400.0
+BK01392,2026-09-25,22:45,SilverScreen Galleria,Delhi,Love in Paris,Romance,200,200.0,Student Discount 20%,50,60,10,10,10000.0,12000.0
+BK01578,2026-09-25,22:45,SilverScreen Forum,Chennai,Whispering Pines,Horror,150,550.0,None,63,48,-15,15,34650.0,26400.0
+BK01642,2026-09-25,22:45,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,250.0,None,76,63,-13,13,19000.0,15750.0
+BK01893,2026-09-25,22:45,SilverScreen Central,Hyderabad,Mumbai Express,Action,220,180.0,Early Bird 28%,95,98,3,3,17100.0,17640.0
+BK02026,2026-09-25,22:45,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,250.0,None,62,63,1,1,15500.0,15750.0
+BK00428,2026-09-26,10:30,SilverScreen Galleria,Delhi,Laugh Riot,Comedy,200,250.0,None,132,139,7,7,33000.0,34750.0
+BK01053,2026-09-26,10:30,SilverScreen Central,Hyderabad,Mumbai Express,Action,220,180.0,Early Bird 28%,174,149,-25,25,31320.0,26820.0
+BK01069,2026-09-26,10:30,SilverScreen Forum,Chennai,Whispering Pines,Horror,150,380.0,None,72,90,18,18,27360.0,34200.0
+BK01453,2026-09-26,10:30,SilverScreen Downtown,Mumbai,Whispering Pines,Horror,250,320.0,Family Pack 15%,135,138,3,3,43200.0,44160.0
+BK01857,2026-09-26,10:30,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,250.0,None,139,127,-12,12,34750.0,31750.0
+BK02192,2026-09-26,10:30,SilverScreen Downtown,Mumbai,Mumbai Express,Action,250,180.0,Early Bird 28%,197,155,-42,42,35460.0,27900.0
+BK00065,2026-09-26,13:45,SilverScreen Central,Hyderabad,Cyber Runner,Sci-Fi,220,200.0,Student Discount 20%,192,177,-15,15,38400.0,35400.0
+BK00071,2026-09-26,13:45,SilverScreen Downtown,Mumbai,Cyber Runner,Sci-Fi,250,180.0,Early Bird 28%,209,185,-24,24,37620.0,33300.0
+BK00743,2026-09-26,13:45,SilverScreen Downtown,Mumbai,Shadow Strike,Action,250,250.0,None,181,190,9,9,45250.0,47500.0
+BK00784,2026-09-26,13:45,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,200.0,Student Discount 20%,150,135,-15,15,30000.0,27000.0
+BK01637,2026-09-26,13:45,SilverScreen Downtown,Mumbai,Whispering Pines,Horror,250,320.0,Family Pack 15%,139,145,6,6,44480.0,46400.0
+BK01991,2026-09-26,13:45,SilverScreen Forum,Chennai,Crazy Summer,Comedy,150,250.0,None,110,115,5,5,27500.0,28750.0
+BK00598,2026-09-26,17:00,SilverScreen Galleria,Delhi,Mumbai Express,Action,200,380.0,None,192,191,-1,1,72960.0,72580.0
+BK01573,2026-09-26,17:00,SilverScreen Downtown,Mumbai,Whispering Pines,Horror,250,200.0,Student Discount 20%,200,160,-40,40,40000.0,32000.0
+BK01741,2026-09-26,17:00,SilverScreen Nexus,Bengaluru,Shadow Strike,Action,180,550.0,None,169,167,-2,2,92950.0,91850.0
+BK00229,2026-09-26,20:15,SilverScreen Central,Hyderabad,Mumbai Express,Action,220,550.0,None,211,199,-12,12,116050.0,109450.0
+BK01592,2026-09-26,20:15,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,250.0,None,97,154,57,57,24250.0,38500.0
+BK01746,2026-09-26,20:15,SilverScreen Galleria,Delhi,Crimson Verdict,Drama,200,550.0,None,142,135,-7,7,78100.0,74250.0
+BK01747,2026-09-26,20:15,SilverScreen Downtown,Mumbai,Mumbai Express,Action,250,380.0,None,240,230,-10,10,91200.0,87400.0
+BK00932,2026-09-26,22:45,SilverScreen Central,Hyderabad,Starlight Odyssey,Sci-Fi,220,180.0,Early Bird 28%,211,173,-38,38,37980.0,31140.0
+BK01158,2026-09-26,22:45,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,200.0,Student Discount 20%,210,168,-42,42,42000.0,33600.0
+BK01416,2026-09-26,22:45,SilverScreen Nexus,Bengaluru,Love in Paris,Romance,180,180.0,Early Bird 28%,121,128,7,7,21780.0,23040.0
+BK00039,2026-09-27,10:30,SilverScreen Downtown,Mumbai,Cyber Runner,Sci-Fi,250,200.0,Student Discount 20%,139,158,19,19,27800.0,31600.0
+BK00722,2026-09-27,10:30,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,180.0,Early Bird 28%,69,98,29,29,12420.0,17640.0
+BK00760,2026-09-27,10:30,SilverScreen Galleria,Delhi,Shadow Strike,Action,200,180.0,Early Bird 28%,200,125,-75,75,36000.0,22500.0
+BK00900,2026-09-27,10:30,SilverScreen Downtown,Mumbai,Cyber Runner,Sci-Fi,250,180.0,Early Bird 28%,150,158,8,8,27000.0,28440.0
+BK01865,2026-09-27,10:30,SilverScreen Forum,Chennai,Crimson Verdict,Drama,150,180.0,Early Bird 28%,85,74,-11,11,15300.0,13320.0
+BK00869,2026-09-27,13:45,SilverScreen Forum,Chennai,Laugh Riot,Comedy,150,200.0,Student Discount 20%,119,109,-10,10,23800.0,21800.0
+BK00892,2026-09-27,13:45,SilverScreen Nexus,Bengaluru,Cyber Runner,Sci-Fi,180,200.0,Student Discount 20%,153,136,-17,17,30600.0,27200.0
+BK01424,2026-09-27,13:45,SilverScreen Central,Hyderabad,Crimson Verdict,Drama,220,380.0,None,109,141,32,32,41420.0,53580.0
+BK00677,2026-09-27,17:00,SilverScreen Central,Hyderabad,Starlight Odyssey,Sci-Fi,220,250.0,None,211,197,-14,14,52750.0,49250.0
+BK01111,2026-09-27,17:00,SilverScreen Forum,Chennai,Cyber Runner,Sci-Fi,150,320.0,Family Pack 15%,144,131,-13,13,46080.0,41920.0
+BK01539,2026-09-27,17:00,SilverScreen Nexus,Bengaluru,Laugh Riot,Comedy,180,180.0,Early Bird 28%,146,137,-9,9,26280.0,24660.0
+BK01651,2026-09-27,17:00,SilverScreen Nexus,Bengaluru,Love in Paris,Romance,180,320.0,Family Pack 15%,140,136,-4,4,44800.0,43520.0
+BK00341,2026-09-27,20:15,SilverScreen Forum,Chennai,Love in Paris,Romance,150,200.0,Student Discount 20%,100,114,14,14,20000.0,22800.0
+BK01285,2026-09-27,20:15,SilverScreen Nexus,Bengaluru,Starlight Odyssey,Sci-Fi,180,380.0,None,173,167,-6,6,65740.0,63460.0
+BK01615,2026-09-27,20:15,SilverScreen Forum,Chennai,Whispering Pines,Horror,150,180.0,Early Bird 28%,114,120,6,6,20520.0,21600.0
+BK01895,2026-09-27,20:15,SilverScreen Central,Hyderabad,Mumbai Express,Action,220,250.0,None,211,198,-13,13,52750.0,49500.0
+BK01898,2026-09-27,20:15,SilverScreen Downtown,Mumbai,Crazy Summer,Comedy,250,200.0,Student Discount 20%,236,202,-34,34,47200.0,40400.0
+BK02052,2026-09-27,20:15,SilverScreen Galleria,Delhi,Crimson Verdict,Drama,200,380.0,None,124,137,13,13,47120.0,52060.0
+BK00398,2026-09-27,22:45,SilverScreen Forum,Chennai,Crimson Verdict,Drama,150,380.0,None,101,86,-15,15,38380.0,32680.0
+BK00449,2026-09-27,22:45,SilverScreen Central,Hyderabad,Cyber Runner,Sci-Fi,220,320.0,Family Pack 15%,169,171,2,2,54080.0,54720.0
+BK00506,2026-09-27,22:45,SilverScreen Downtown,Mumbai,Shadow Strike,Action,250,320.0,Family Pack 15%,184,202,18,18,58880.0,64640.0
+BK00991,2026-09-27,22:45,SilverScreen Forum,Chennai,Mumbai Express,Action,150,180.0,Early Bird 28%,150,126,-24,24,27000.0,22680.0
+BK01206,2026-09-27,22:45,SilverScreen Forum,Chennai,Crimson Verdict,Drama,150,550.0,None,85,85,0,0,46750.0,46750.0
+BK01696,2026-09-27,22:45,SilverScreen Downtown,Mumbai,Love in Paris,Romance,250,380.0,None,188,149,-39,39,71440.0,56620.0
+BK01798,2026-09-27,22:45,SilverScreen Forum,Chennai,Mumbai Express,Action,150,550.0,None,150,138,-12,12,82500.0,75900.0
+BK01982,2026-09-27,22:45,SilverScreen Central,Hyderabad,Love in Paris,Romance,220,320.0,Family Pack 15%,107,118,11,11,34240.0,37760.0
+BK02021,2026-09-27,22:45,SilverScreen Forum,Chennai,Laugh Riot,Comedy,150,200.0,Student Discount 20%,112,118,6,6,22400.0,23600.0
+BK00102,2026-09-28,10:30,SilverScreen Downtown,Mumbai,Shadow Strike,Action,250,320.0,Family Pack 15%,87,103,16,16,27840.0,32960.0
+BK00425,2026-09-28,10:30,SilverScreen Nexus,Bengaluru,Starlight Odyssey,Sci-Fi,180,550.0,None,87,73,-14,14,47850.0,40150.0
+BK00798,2026-09-28,10:30,SilverScreen Downtown,Mumbai,Cyber Runner,Sci-Fi,250,180.0,Early Bird 28%,113,94,-19,19,20340.0,16920.0
+BK00959,2026-09-28,10:30,SilverScreen Central,Hyderabad,Cyber Runner,Sci-Fi,220,180.0,Early Bird 28%,98,92,-6,6,17640.0,16560.0
+BK00975,2026-09-28,10:30,SilverScreen Galleria,Delhi,Cyber Runner,Sci-Fi,200,550.0,None,73,71,-2,2,40150.0,39050.0
+BK01465,2026-09-28,10:30,SilverScreen Nexus,Bengaluru,Cyber Runner,Sci-Fi,180,200.0,Student Discount 20%,63,68,5,5,12600.0,13600.0
+BK01519,2026-09-28,10:30,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,320.0,Family Pack 15%,66,81,15,15,21120.0,25920.0
+BK01673,2026-09-28,10:30,SilverScreen Downtown,Mumbai,Shadow Strike,Action,250,200.0,Student Discount 20%,87,96,9,9,17400.0,19200.0
+BK01743,2026-09-28,10:30,SilverScreen Downtown,Mumbai,Laugh Riot,Comedy,250,250.0,None,92,74,-18,18,23000.0,18500.0
+BK01749,2026-09-28,10:30,SilverScreen Central,Hyderabad,Shadow Strike,Action,220,180.0,Early Bird 28%,87,77,-10,10,15660.0,13860.0
+BK02075,2026-09-28,10:30,SilverScreen Central,Hyderabad,Mumbai Express,Action,220,250.0,None,88,89,1,1,22000.0,22250.0
+BK02167,2026-09-28,10:30,SilverScreen Downtown,Mumbai,Dragon Kingdom,Animation,250,180.0,Early Bird 28%,79,94,15,15,14220.0,16920.0
+BK00837,2026-09-28,13:45,SilverScreen Forum,Chennai,Crimson Verdict,Drama,150,200.0,Student Discount 20%,75,64,-11,11,15000.0,12800.0
+BK00841,2026-09-28,13:45,SilverScreen Nexus,Bengaluru,Crazy Summer,Comedy,180,550.0,None,80,79,-1,1,44000.0,43450.0
+BK01123,2026-09-28,13:45,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,550.0,None,105,92,-13,13,57750.0,50600.0
+BK01799,2026-09-28,13:45,SilverScreen Forum,Chennai,Whispering Pines,Horror,150,550.0,None,77,71,-6,6,42350.0,39050.0
+BK01854,2026-09-28,13:45,SilverScreen Forum,Chennai,Mumbai Express,Action,150,250.0,None,103,88,-15,15,25750.0,22000.0
+BK00225,2026-09-28,17:00,SilverScreen Downtown,Mumbai,Love in Paris,Romance,250,550.0,None,124,145,21,21,68200.0,79750.0
+BK00301,2026-09-28,17:00,SilverScreen Downtown,Mumbai,Mumbai Express,Action,250,200.0,Student Discount 20%,188,189,1,1,37600.0,37800.0
+BK00638,2026-09-28,17:00,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,200.0,Student Discount 20%,103,113,10,10,20600.0,22600.0
+BK00687,2026-09-28,17:00,SilverScreen Galleria,Delhi,Mumbai Express,Action,200,250.0,None,160,165,5,5,40000.0,41250.0
+BK01267,2026-09-28,17:00,SilverScreen Nexus,Bengaluru,Crimson Verdict,Drama,180,200.0,Student Discount 20%,89,110,21,21,17800.0,22000.0
+BK01422,2026-09-28,17:00,SilverScreen Downtown,Mumbai,Cyber Runner,Sci-Fi,250,250.0,None,203,179,-24,24,50750.0,44750.0
+BK00495,2026-09-28,20:15,SilverScreen Downtown,Mumbai,Crimson Verdict,Drama,250,550.0,None,156,146,-10,10,85800.0,80300.0
+BK00682,2026-09-28,20:15,SilverScreen Nexus,Bengaluru,Crazy Summer,Comedy,180,250.0,None,65,120,55,55,16250.0,30000.0
+BK00910,2026-09-28,20:15,SilverScreen Nexus,Bengaluru,Love in Paris,Romance,180,250.0,None,128,117,-11,11,32000.0,29250.0
+BK01228,2026-09-28,20:15,SilverScreen Central,Hyderabad,Laugh Riot,Comedy,220,550.0,None,143,147,4,4,78650.0,80850.0
+BK01506,2026-09-28,20:15,SilverScreen Nexus,Bengaluru,Mumbai Express,Action,180,550.0,None,141,138,-3,3,77550.0,75900.0
+BK01706,2026-09-28,20:15,SilverScreen Galleria,Delhi,Laugh Riot,Comedy,200,180.0,Early Bird 28%,128,139,11,11,23040.0,25020.0
+BK02022,2026-09-28,20:15,SilverScreen Nexus,Bengaluru,Cyber Runner,Sci-Fi,180,250.0,None,134,141,7,7,33500.0,35250.0
+BK02155,2026-09-28,20:15,SilverScreen Nexus,Bengaluru,Whispering Pines,Horror,180,250.0,None,84,115,31,31,21000.0,28750.0
+BK00564,2026-09-28,22:45,SilverScreen Galleria,Delhi,Laugh Riot,Comedy,200,180.0,Early Bird 28%,94,83,-11,11,16920.0,14940.0
+BK00675,2026-09-28,22:45,SilverScreen Central,Hyderabad,Crazy Summer,Comedy,220,180.0,Early Bird 28%,74,95,21,21,13320.0,17100.0
+BK00960,2026-09-28,22:45,SilverScreen Nexus,Bengaluru,Dragon Kingdom,Animation,180,200.0,Student Discount 20%,100,108,8,8,20000.0,21600.0
+BK01120,2026-09-28,22:45,SilverScreen Galleria,Delhi,Laugh Riot,Comedy,200,200.0,Student Discount 20%,116,86,-30,30,23200.0,17200.0
+BK01256,2026-09-28,22:45,SilverScreen Downtown,Mumbai,Mumbai Express,Action,250,550.0,None,129,154,25,25,70950.0,84700.0
+BK01677,2026-09-28,22:45,SilverScreen Galleria,Delhi,Whispering Pines,Horror,200,320.0,Family Pack 15%,105,91,-14,14,33600.0,29120.0
+BK01781,2026-09-28,22:45,SilverScreen Nexus,Bengaluru,Crimson Verdict,Drama,180,180.0,Early Bird 28%,48,89,41,41,8640.0,16020.0
+BK01795,2026-09-28,22:45,SilverScreen Galleria,Delhi,Crazy Summer,Comedy,200,320.0,Family Pack 15%,93,86,-7,7,29760.0,27520.0
+BK00315,2026-09-29,10:30,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,550.0,None,73,47,-26,26,40150.0,25850.0
+BK00318,2026-09-29,10:30,SilverScreen Galleria,Delhi,Crazy Summer,Comedy,200,320.0,Family Pack 15%,61,57,-4,4,19520.0,18240.0
+BK00454,2026-09-29,10:30,SilverScreen Downtown,Mumbai,Starlight Odyssey,Sci-Fi,250,320.0,Family Pack 15%,118,101,-17,17,37760.0,32320.0
+BK01062,2026-09-29,10:30,SilverScreen Galleria,Delhi,Love in Paris,Romance,200,320.0,Family Pack 15%,20,64,44,44,6400.0,20480.0
+BK01493,2026-09-29,10:30,SilverScreen Downtown,Mumbai,Dragon Kingdom,Animation,250,180.0,Early Bird 28%,84,94,10,10,15120.0,16920.0
+BK01924,2026-09-29,10:30,SilverScreen Forum,Chennai,Mumbai Express,Action,150,250.0,None,70,66,-4,4,17500.0,16500.0
+BK02018,2026-09-29,10:30,SilverScreen Galleria,Delhi,Love in Paris,Romance,200,250.0,None,27,61,34,34,6750.0,15250.0
+BK00423,2026-09-29,13:45,SilverScreen Galleria,Delhi,Dragon Kingdom,Animation,200,320.0,Family Pack 15%,100,91,-9,9,32000.0,29120.0
+BK00436,2026-09-29,13:45,SilverScreen Galleria,Delhi,Crazy Summer,Comedy,200,250.0,None,91,96,5,5,22750.0,24000.0
+BK00554,2026-09-29,13:45,SilverScreen Downtown,Mumbai,Mumbai Express,Action,250,180.0,Early Bird 28%,159,130,-29,29,28620.0,23400.0
+BK01100,2026-09-29,13:45,SilverScreen Galleria,Delhi,Starlight Odyssey,Sci-Fi,200,380.0,None,124,112,-12,12,47120.0,42560.0
+BK01281,2026-09-29,13:45,SilverScreen Forum,Chennai,Love in Paris,Romance,150,180.0,Early Bird 28%,62,67,5,5,11160.0,12060.0
+BK01780,2026-09-29,13:45,SilverScreen Downtown,Mumbai,Starlight Odyssey,Sci-Fi,250,380.0,None,134,147,13,13,50920.0,55860.0
+BK02171,2026-09-29,13:45,SilverScreen Downtown,Mumbai,Cyber Runner,Sci-Fi,250,550.0,None,156,147,-9,9,85800.0,80850.0
+BK00617,2026-09-29,17:00,SilverScreen Central,Hyderabad,Crazy Summer,Comedy,220,380.0,None,134,141,7,7,50920.0,53580.0
+BK01648,2026-09-29,17:00,SilverScreen Central,Hyderabad,Starlight Odyssey,Sci-Fi,220,200.0,Student Discount 20%,191,162,-29,29,38200.0,32400.0
+BK01759,2026-09-29,17:00,SilverScreen Forum,Chennai,Mumbai Express,Action,150,200.0,Student Discount 20%,142,123,-19,19,28400.0,24600.0
+BK02064,2026-09-29,17:00,SilverScreen Forum,Chennai,Crazy Summer,Comedy,150,550.0,None,89,100,11,11,48950.0,55000.0
+BK00928,2026-09-29,20:15,SilverScreen Galleria,Delhi,Crazy Summer,Comedy,200,180.0,Early Bird 28%,126,133,7,7,22680.0,23940.0
+BK00952,2026-09-29,20:15,SilverScreen Central,Hyderabad,Whispering Pines,Horror,220,180.0,Early Bird 28%,131,123,-8,8,23580.0,22140.0
+BK01180,2026-09-29,20:15,SilverScreen Galleria,Delhi,Crazy Summer,Comedy,200,320.0,Family Pack 15%,102,134,32,32,32640.0,42880.0
+BK01496,2026-09-29,20:15,SilverScreen Forum,Chennai,Shadow Strike,Action,150,380.0,None,128,111,-17,17,48640.0,42180.0
+BK01565,2026-09-29,20:15,SilverScreen Galleria,Delhi,Mumbai Express,Action,200,180.0,Early Bird 28%,176,170,-6,6,31680.0,30600.0
+BK01679,2026-09-29,20:15,SilverScreen Galleria,Delhi,Starlight Odyssey,Sci-Fi,200,200.0,Student Discount 20%,173,147,-26,26,34600.0,29400.0
+BK01860,2026-09-29,20:15,SilverScreen Downtown,Mumbai,Whispering Pines,Horror,250,550.0,None,147,149,2,2,80850.0,81950.0
+BK00015,2026-09-29,22:45,SilverScreen Forum,Chennai,Laugh Riot,Comedy,150,380.0,None,54,82,28,28,20520.0,31160.0
+BK00086,2026-09-29,22:45,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,550.0,None,72,91,19,19,39600.0,50050.0
+BK00419,2026-09-29,22:45,SilverScreen Galleria,Delhi,Laugh Riot,Comedy,200,550.0,None,118,86,-32,32,64900.0,47300.0
+BK01310,2026-09-29,22:45,SilverScreen Galleria,Delhi,Shadow Strike,Action,200,250.0,None,112,120,8,8,28000.0,30000.0
+BK01900,2026-09-29,22:45,SilverScreen Downtown,Mumbai,Mumbai Express,Action,250,550.0,None,148,154,6,6,81400.0,84700.0
+BK02023,2026-09-29,22:45,SilverScreen Forum,Chennai,Dragon Kingdom,Animation,150,250.0,None,94,87,-7,7,23500.0,21750.0

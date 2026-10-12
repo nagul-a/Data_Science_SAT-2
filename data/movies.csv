@@ -1,0 +1,11 @@
+movie_id,movie,genre,language,runtime,certification
+M01,Starlight Odyssey,Sci-Fi,English,148,PG-13
+M02,Cyber Runner,SciFi,English,125,R
+M03,Mumbai Express,Action,Hindi,155,UA
+M04,Shadow Strike,action,English,118,PG-13
+M05,Laugh Riot,Comedy,Hindi,130,U
+M06,Crazy Summer,comedy ,English,105,PG-13
+M07,Whispering Pines,Horror,English,98,A
+M08,Love in Paris,Romance,French,112,UA
+M09,Dragon Kingdom,Animation,English,102,U
+M10,Crimson Verdict,Drama,Hindi,140,UA
